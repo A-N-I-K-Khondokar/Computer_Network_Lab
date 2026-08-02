@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasicSocket/BasicSocket.iml" filepath="$PROJECT_DIR$/BasicSocket/BasicSocket.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/CN LAB.iml" filepath="$PROJECT_DIR$/.idea/CN LAB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab 1 _ Feb 18/Lab 1 _ Feb 18.iml" filepath="$PROJECT_DIR$/Lab 1 _ Feb 18/Lab 1 _ Feb 18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TCP-and-UDP-sockets/TCP-and-UDP-sockets.iml" filepath="$PROJECT_DIR$/TCP-and-UDP-sockets/TCP-and-UDP-sockets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mathServer/mathServer.iml" filepath="$PROJECT_DIR$/mathServer/mathServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiThreading/multiThreading.iml" filepath="$PROJECT_DIR$/multiThreading/multiThreading.iml" />
     </modules>
   </component>
 </project>
